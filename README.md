@@ -1,0 +1,1 @@
+This repo contains my practices and projects related to graphql.
